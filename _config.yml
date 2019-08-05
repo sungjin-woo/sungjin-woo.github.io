@@ -16,7 +16,7 @@
 title: Sungjin Woo's Blog
 email: enishi2001@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm an iOS develpoer and working for Works Mobile Corporation.
+  I'm an iOS developer and working for Works Mobile Corporation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sungjin-woo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: enishi01
